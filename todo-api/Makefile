@@ -1,2 +1,2 @@
 dev:
-	deno --allow-env --allow-net index.ts
+	deno -A index.ts
